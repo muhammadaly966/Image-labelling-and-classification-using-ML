@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-#   # Name:Saad,Mohammad
-# 
-#   # Student no :300267006                                                  
-#  
-#  #  Assignment (1)
-# 
-#   # ELG7186[EI] Learning-Based Computer Vision 
-
 # **First we will import the necessary libraries and modules , in addition to the that a script is written to explore the files and load the images with labeling each image regarding its class.**
 
 # In[163]:
